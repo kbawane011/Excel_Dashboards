@@ -55,5 +55,4 @@ This project demonstrates end-to-end Excel BI skills, starting from data cleanin
 * Add automated refresh
 * Add more advanced DAX KPIs
 
-itHub repo description**
-Just tell me!
+
