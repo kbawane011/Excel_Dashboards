@@ -32,6 +32,9 @@ This project demonstrates end-to-end Excel BI skills, starting from data cleanin
 * Dynamic slicer-based filtering
 * Comparative analysis over time
 
+## Screenshot
+<img width="895" height="489" alt="image" src="https://github.com/user-attachments/assets/8dd92e38-972a-4c17-ae09-8bc7f40af85d" />
+
 ## 🧪 How to Use
 
 1. Download `Dashboard Dataset.xlsx`.
